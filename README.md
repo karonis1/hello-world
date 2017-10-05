@@ -4,3 +4,5 @@ This is my first GitHub repository
 Here I did make a modification (modification 1) in my first branch. 
 
 This is my second modification (modification 2) still on my first branch. 
+
+This is a change that I made locally on my PC
